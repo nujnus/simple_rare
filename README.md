@@ -147,7 +147,7 @@ a.many_to_many(through_model=ModelA_F, target_model=ModelF,
 
 ```
 
-## 单个字段的unique (暂时不提供对 unique_together 的支持)
+仅支持单个字段的unique (暂时不提供对 unique_together 的支持)
 ```
 import os
 import django
