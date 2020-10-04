@@ -1,0 +1,5 @@
+dist
+build
+*.egg-info
+simple_rare/__pycache__
+.idea
